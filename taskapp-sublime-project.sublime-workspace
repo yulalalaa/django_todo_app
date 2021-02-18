@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"home",
+				"home_view\t(views.py)"
+			],
+			[
+				"MIM",
+				"MIMEText\tabc"
+			],
+			[
+				"send",
+				"send_mail\tabc"
+			],
+			[
+				"MIME",
+				"MIMEMultipart\tclass"
+			],
+			[
+				"wea",
+				"weather_color\tabc"
+			],
+			[
+				"co",
+				"configure\tfunction"
+			],
+			[
+				"c",
+				"content\tfunction"
+			],
+			[
+				"last_name_",
+				"last_name_editor\tabc"
+			],
+			[
+				"first_name_",
+				"first_name_editor\tabc"
+			],
+			[
+				"phone",
+				"phone_number_editor\tabc"
+			],
+			[
+				"last",
+				"last_name_editor\tabc"
+			],
+			[
+				"first_",
+				"first_name_editor\tabc"
+			],
+			[
+				"delete",
+				"delete_box\tabc"
+			],
+			[
+				"see",
+				"see_all_label\tabc"
+			],
+			[
+				"sub",
+				"submit_btn\tabc"
+			],
+			[
+				"te",
+				"text\tabc"
+			],
+			[
+				"connect",
+				"connection\tabc"
+			],
+			[
+				"col",
+				"columnspan\tabc"
+			],
+			[
+				"st",
+				"stop\tabc"
+			],
+			[
+				"K_L",
+				"K_LEFT\tstatement"
+			],
+			[
+				"platfo",
+				"platform_a\tabc"
+			],
+			[
+				"ball",
+				"ball\tabc"
+			],
+			[
+				"word",
+				"word_list\tabc"
+			],
+			[
+				"used",
+				"used_letters\tabc"
+			],
+			[
+				"user",
+				"user_letter\tabc"
+			],
+			[
+				"re",
+				"request\tmodule"
+			],
+			[
+				"a",
+				"attempts\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Ruby/Ruby.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 138.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/user/Desktop/study_py/try_django/src/templates/navbar.html",
+		"/C/Users/user/Desktop/study_py/try_django/src/templates/contact.html",
+		"/C/Users/user/Desktop/study_py/try_django/src/templates/about.html",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/pages/views.py",
+		"/C/Users/user/Desktop/study_py/try_django/src/templates/base.html",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/trydjango/urls.py",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/trydjango/settings.py",
+		"/C/Users/user/Desktop/study_py/try_django/src/templates/home.html",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/products/admin.py",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/products/models.py",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/manage.py",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/products/migrations/0002_auto_20210209_1605.py",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/products/migrations/__init__.py",
+		"/C/Users/user/Desktop/study_py/try_django/src/trydjango/products/tests.py",
+		"/C/Users/user/Desktop/study_py/send_mail/config.py",
+		"/C/Users/user/Desktop/study_py/send_mail/send_mail.py",
+		"/C/Users/user/Desktop/study_py/send_mail.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/air_quality_app/air_quality_app.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/air_quality_app/air_quality_app - 2.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/database_phone_book/database.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/phone_book/phone_book.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/air_quality_app/air_quality_app_3.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/air_quality_app/air_quality_app_2.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/database_phone_book/.git/COMMIT_EDITMSG",
+		"/C/Users/user/Desktop/projects/python/tkinter/database_phone_book/.git/rebase-merge/git-rebase-todo",
+		"/C/Users/user/Desktop/projects/python/tkinter/database/database.py",
+		"/C/Users/user/Desktop/phonebook.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/calculator/calculator.py",
+		"/C/Users/user/.git/COMMIT_EDITMSG",
+		"/C/Users/user/Desktop/projects/python/turtle/snake/snake.py",
+		"/C/Users/user/Desktop/document.py",
+		"/C/Users/user/Desktop/projects/python/pygame/snale.py",
+		"/C/Users/user/Desktop/projects/python/turtle/pong/pong.py",
+		"/C/Users/user/Desktop/projects/python/pong/pong.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/tic_tac_toe/tic_tac_toe.py",
+		"/C/Users/user/Desktop/gdfg.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/password_holder/pw_hold.py",
+		"/C/Users/user/Desktop/password-manager/main.py",
+		"/C/Users/user/Desktop/study_py/game_inventory.py",
+		"/C/Users/user/Desktop/study_py/comma_code.py",
+		"/C/Users/user/Desktop/study_py/sequence.py",
+		"/C/Users/user/Desktop/automate_online-materials/tictactoe_complete.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/random_quiz/randomQuizGenerator.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/random_quiz/capitalsquiz_answers1.txt",
+		"/C/Users/user/Desktop/projects/python/mini_projects/random_quiz/capitalsquiz1.txt",
+		"/C/Users/user/Desktop/projects/python/mini_projects/random_quiz/capitals.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/random_quiz/randomQuizGenerator.py.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/random_quiz/random_quiz.py",
+		"/C/Users/user/Desktop/projects/python/more_serious_stuff/contact_book/contact_book.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/phone_book/phones.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/phone_book/1.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/phone_book/phonelist.py",
+		"/C/Users/user/Desktop/projects/python/tkinter/1/1.py",
+		"/C/Users/user/Desktop/study_py/objects_and_classes.py",
+		"/C/Users/user/Desktop/projects/python/more_serious_stuff/hangman/game.py",
+		"/C/Users/user/Desktop/projects/python/more_serious_stuff/hangman/words.py",
+		"/C/Users/user/Desktop/words.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/hangman/game_main.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/simple_eng_dict/main.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/hangman/hangman.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/simple_eng_dict/dictionary.json",
+		"/C/Users/user/Desktop/projects/python/mini_projects/hangman/words.py",
+		"/C/Users/user/Desktop/projects/python/report.py",
+		"/C/Users/user/Desktop/projects/python/more_serious_stuff/rock_paper_scissors/rock_paper_scissors.py",
+		"/C/Users/user/Desktop/projects/python/more_serious_stuff/tic_tac_toe/player.py",
+		"/C/Users/user/Desktop/projects/python/more_serious_stuff/tic_tac_toe/game.py",
+		"/C/Users/user/Desktop/study_py/geo_json.py",
+		"/C/Users/user/Desktop/study_py/json_geo.py",
+		"/C/Users/user/Desktop/projects/python/mini_projects/simple_calc/simple_calc.py",
+		"/C/Users/user/Desktop/Address-Book/AddressBook.py",
+		"/C/Users/user/Desktop/projects/python/more_serious_stuff/adress_book/ad_book.py",
+		"/C/Users/user/Desktop/study_py/while_loop.py",
+		"/C/Users/user/Desktop/projects/python/more_serious_stuff/adress_book/main.py",
+		"/C/Users/user/Desktop/Code/finished_code.py",
+		"/C/Users/user/Desktop/projects/python/mini projects/web_scraping/html_parsing.py",
+		"/C/Users/user/Desktop/projects/python/mini projects/web_scraping/html_scrap_bs.py",
+		"/C/Users/user/Desktop/projects/python/mini projects/web_scraping/html_scrap_bs,py",
+		"/C/Users/user/Desktop/projects/python/mini projects/web_scraping/urllinks.py",
+		"/C/Users/user/Desktop/projects/python/mini projects/web_scraping/web_scrap.py",
+		"/C/Users/user/Desktop/projects/python/mini projects/simple_web_browser/simple_web_browser.py",
+		"/C/Users/user/Desktop/projects/python/mini projects/web_scraping/scrap_bs.py",
+		"/C/Users/user/Desktop/projects/python/mini projects/simple_web_browser/simple_web_browser_2.py",
+		"/C/Users/user/Desktop/study_py/web_scrap.py",
+		"/C/Users/user/Desktop/projects/python/simple_web_browser/simple_web_browser_2.py",
+		"/C/Users/user/Desktop/projects/python/simple_web_browser/simple_web_browser.py",
+		"/C/Users/user/Desktop/projects/python/simple_web_browser.py",
+		"/C/Users/user/Desktop/projects/python/random_number/random_number.py",
+		"/C/Users/user/Desktop/projects/python/simple_calc/simple_calc.py",
+		"/C/Users/user/Desktop/rand.py",
+		"/C/Users/user/Desktop/random.py",
+		"/C/Users/user/Desktop/projects/python/random_number/random_number",
+		"/C/Users/user/Desktop/study_py/dict.py",
+		"/C/Users/user/Desktop/przyklady_python/rozwiazania/rozdzial7.txt",
+		"/C/Users/user/Desktop/przyklady_python/todos.py",
+		"/C/Users/user/Desktop/projects/simple_eng_dict/main.py",
+		"/C/Users/user/Desktop/projects/simple_eng_dict/dictionary.json",
+		"/C/Users/user/Desktop/study_py/test.py",
+		"/C/Users/user/Desktop/study_py/files.py",
+		"/C/Users/user/Desktop/projects/python/simple_calendar/simple_calendar.py",
+		"/C/Users/user/Desktop/study_py/functions.py",
+		"/C/Users/user/Desktop/test.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/user/Desktop/projects/python/.git/COMMIT_EDITMSG",
+		"/C/Users/user/Desktop/study_py/simple calculator.py",
+		"/C/Users/user/Desktop/study_py/strings.py",
+		"/C/Users/user/Desktop/study_py/for_loop.py",
+		"/C/Users/user/Desktop/study_py/nested for loops.py",
+		"/C/Users/user/Desktop/study_py/for.py",
+		"/C/Users/user/Desktop/study_py/if_else.py",
+		"/C/Users/user/Desktop/study_py/for loop.py",
+		"/C/Users/user/Desktop/study_py/test_execution.py",
+		"/C/Users/user/Desktop/study_py/loops.py",
+		"/C/Users/user/Desktop/study_py/examples.py",
+		"/C/Users/user/Desktop/examples.py",
+		"/C/Users/user/Desktop/test_2.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/python_my.sublime-build",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/python settings.py",
+		"/C/Users/user/Desktop/test run.py",
+		"/C/Users/user/Desktop/code ex.py",
+		"/C/Users/user/Desktop/functions.py",
+		"/C/Program Files (x86)/Sublime Text 3/x = 10",
+		"/C/Users/user/Desktop/first",
+		"/C/Users/user/Desktop/case.rb.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"state",
+			"(\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "taskapp-sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"while_loop.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
