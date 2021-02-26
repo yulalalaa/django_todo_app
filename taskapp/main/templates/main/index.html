@@ -7,12 +7,15 @@
 
 
 {% block content %}
-    <h1> Main Page </h1>
-    {% for el in tasks %}
-        <div class="alert alert-warning mt-2">
-        	<h3>{{ el.title }}</h3>
-        	<p>{{ el.task }}</p>
-        </div>
-
-    {% endfor %}
+    <h1> Your Tasks </h1>
+    {% if tasks %}
+        {% for el in tasks %}
+            <div class="alert alert-warning mt-2">
+        	    <h3>{{ el.title }}</h3>
+        	    <p>{{ el.task }}</p>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p> You have no tasks</p>
+    {% endif %}
 {% endblock %}
