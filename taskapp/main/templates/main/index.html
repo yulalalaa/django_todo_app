@@ -2,11 +2,17 @@
 
 
 {% block title %}
-Main Page
+{{ title }}
 {% endblock %}
 
 
 {% block content %}
     <h1> Main Page </h1>
-    <p> Text </p>
+    {% for el in tasks %}
+        <div class="alert alert-warning mt-2">
+        	<h3>{{ el.title }}</h3>
+        	<p>{{ el.task }}</p>
+        </div>
+
+    {% endfor %}
 {% endblock %}
