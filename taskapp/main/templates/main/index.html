@@ -7,12 +7,13 @@
 
 
 {% block content %}
-    <h1> Your Tasks </h1>
+    <h2> Your Tasks </h2>
     {% if tasks %}
         {% for el in tasks %}
             <div class="alert alert-warning mt-2">
-        	    <h3>{{ el.title }}</h3>
+        	    <h4>{{ el.title }}</h4>
         	    <p>{{ el.task }}</p>
+        	    <a class="p-2 text-dark" href="{% url 'update' el.id %}">Update Task</a>
             </div>
         {% endfor %}
     {% else %}

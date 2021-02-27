@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from .models import Task
 from .forms import TaskForm
+from django.http import HttpResponse
 
 
 def index (request):
@@ -28,3 +29,12 @@ def create (request):
 	    #'error':error
 	}
 	return render (request, 'main/create.html', context)
+
+def update (request, pk):
+	el = Task.objects.get (id = pk)
+	return render (request, 'main/update.html')
+
+
+
+
+

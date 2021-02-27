@@ -16,5 +16,4 @@ class TaskForm (ModelForm):
 		    	'class': 'form-control',
 		    	'placeholder': 'Enter Task Description'
 			})
-
 		}
