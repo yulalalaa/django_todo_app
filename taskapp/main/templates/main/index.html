@@ -14,6 +14,12 @@
         	    <h4>{{ el.title }}</h4>
         	    <p>{{ el.task }}</p>
         	    <a class="p-2 text-dark" href="{% url 'update' el.id %}">Update Task</a>
+        	    <a class="p-2 text-dark" href="{% url 'delete' el.id %}">DeleteTask</a>
+        	    {% if complete == True %}
+        	    <p><strike>{{task}}</strike></p>
+        	    {% else %}
+        	    <span>{{task}}</span>
+        	    {% endif %}
             </div>
         {% endfor %}
     {% else %}

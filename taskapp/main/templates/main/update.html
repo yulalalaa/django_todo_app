@@ -6,7 +6,9 @@ Update Task
 
 {% block content %}
     <h1> Update Task </h1>
-    <form>
+    <form method="POST" action="">
+    	{% csrf_token %}
+    	{{form}}
     	<input type="submit", name = "Update">
     </form>
 {% endblock %}
