@@ -4,30 +4,6 @@
 		"selected_items":
 		[
 			[
-				"aut",
-				"auto_now_add=\tparam"
-			],
-			[
-				"re",
-				"request\tabc"
-			],
-			[
-				"Task",
-				"TaskForm\tclass"
-			],
-			[
-				"Model",
-				"Model_full\tModel (full)"
-			],
-			[
-				"Te",
-				"TextField\tclass"
-			],
-			[
-				"HttpR",
-				"HttpResponse\tclass"
-			],
-			[
 				"home",
 				"home_view\t(views.py)"
 			],
@@ -128,6 +104,10 @@
 				"user_letter\tabc"
 			],
 			[
+				"re",
+				"request\tmodule"
+			],
+			[
 				"a",
 				"attempts\tabc"
 			]
@@ -220,30 +200,9 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/user/Desktop/projects/python/django/task_app",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/templates",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/templates/main",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/taskapp"
 	],
 	"file_history":
 	[
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/urls.py",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/models.py",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/views.py",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/templates/main/update.html",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/templates/main/create.html",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/forms.py",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/templates/main/base.html",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/templates/main/delete.html",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/templates/main/index.html",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/taskapp/settings.py",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/templates/main/about.html",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/manage.py",
-		"/c/users/user/desktop/projects/python/django/task_app/taskapp/main/templates/main/index.html",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/main/admin.py",
-		"/C/Users/user/Desktop/projects/python/django/task_app/taskapp/taskapp/urls.py",
 		"/C/Users/user/Desktop/study_py/try_django/src/templates/navbar.html",
 		"/C/Users/user/Desktop/study_py/try_django/src/templates/contact.html",
 		"/C/Users/user/Desktop/study_py/try_django/src/templates/about.html",
@@ -356,11 +315,24 @@
 		"/C/Users/user/Desktop/study_py/nested for loops.py",
 		"/C/Users/user/Desktop/study_py/for.py",
 		"/C/Users/user/Desktop/study_py/if_else.py",
-		"/C/Users/user/Desktop/study_py/for loop.py"
+		"/C/Users/user/Desktop/study_py/for loop.py",
+		"/C/Users/user/Desktop/study_py/test_execution.py",
+		"/C/Users/user/Desktop/study_py/loops.py",
+		"/C/Users/user/Desktop/study_py/examples.py",
+		"/C/Users/user/Desktop/examples.py",
+		"/C/Users/user/Desktop/test_2.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/python_my.sublime-build",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/python settings.py",
+		"/C/Users/user/Desktop/test run.py",
+		"/C/Users/user/Desktop/code ex.py",
+		"/C/Users/user/Desktop/functions.py",
+		"/C/Program Files (x86)/Sublime Text 3/x = 10",
+		"/C/Users/user/Desktop/first",
+		"/C/Users/user/Desktop/case.rb.txt"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -401,11 +373,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 27.0
 	},
 	"input":
 	{
-		"height": 41.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -446,7 +418,7 @@
 	"project": "taskapp-sublime-project.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
